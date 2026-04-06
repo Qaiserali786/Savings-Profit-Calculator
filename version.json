@@ -1,0 +1,7 @@
+{
+  "latest_version": "1.0.10",
+  "force_update": false,
+  "update_title": "New Update Available!",
+  "update_message": "We have fixed calculation bugs and improved performance. Please update to the latest version.",
+  "update_url": "https://play.google.com/store/apps/details?id=com.ali.savings_profit_calculator"
+}
